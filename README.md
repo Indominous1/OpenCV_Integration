@@ -1,1 +1,1 @@
-# OpenCV_Mini-_Project
+# OpenCV_Mini_Project
